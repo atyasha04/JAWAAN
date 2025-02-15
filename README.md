@@ -62,13 +62,61 @@ India faces immense challenges in securing its vast and diverse borders. From hi
 
 ---
 
-## 💻 **Tech Stack**
-🔸 **AI & Machine Learning** – Audio-video analysis, keyword detection, predictive analytics  
-🔸 **Drones & IoT** – Autonomous resource delivery & surveillance  
-🔸 **React & Netlify** – Web-based dashboards & monitoring systems  
-🔸 **VR Technology** – Realistic military training simulations  
+✨ Tech Stack 🚀
 
----
+🖥️ Hardware
+
+🍓 Raspberry Pi
+
+🏗️ Gazebo
+
+🌐 FANET
+
+🧠 Algorithm
+
+🛤️ TSP
+
+⭐ A*
+
+📦 Batch Processing
+
+📉 Linear Regression
+
+📚 Software/Library
+
+🐍 Python
+
+🔢 Numpy
+
+🤖 TensorFlow
+
+👀 OpenCV
+
+🎯 YOLO
+
+🗺️ Folium
+
+💾 Backend/Database
+
+🍃 MongoDB
+
+🚀 Express.js
+
+🟢 Node.js
+
+🏛️ MVC
+
+☁️ AWS
+
+🌐 Web Stack
+
+⚛️ React.js
+
+🚀 Express.js
+
+🟢 Node.js
+
+🍃 MongoDB---
 
 ## 🤝 **Contributors**
 👨‍💻 **Team JAWAAN** – Passionate developers, AI experts, and innovators building a **safer future** for our soldiers.  
