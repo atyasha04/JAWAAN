@@ -73,8 +73,6 @@ India faces immense challenges in securing its vast and diverse borders. From hi
 ## 🤝 **Contributors**
 👨‍💻 **Team JAWAAN** – Passionate developers, AI experts, and innovators building a **safer future** for our soldiers.  
 
-📩 **Have suggestions or want to collaborate?** Reach out to us!
-
 ---
 
 ## 🚀 **Let's Make a Difference!**
