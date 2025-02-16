@@ -45,7 +45,7 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 
 🔗 **Live Demo:** [Health Monitoring](https://jawaan.netlify.app/)  
 
-  **Working Video Sample of Inventory** - https://drive.google.com/file/d/1f1zSBFLXBPwb0E9I3UyOaIQT3tXpdCu_/view?usp=drive_link
+  **Working Video Sample of Health** - https://drive.google.com/file/d/1f1zSBFLXBPwb0E9I3UyOaIQT3tXpdCu_/view?usp=drive_link
 ---
 
 ### 🎮 **4️⃣ GAME & FORECASTING - Next-Level Training** ⚔️  
@@ -55,7 +55,7 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 
 🔗 **Live Demo:** [VR Training](https://jawan.netlify.app/)  
 
- **Working Video Sample of Inventory** - https://drive.google.com/file/d/13nq1y1e0IpUsXELlqgRs4LWSCnXX-Dq-/view?usp=drive_link
+ **Working Video Sample of Game** - https://drive.google.com/file/d/13nq1y1e0IpUsXELlqgRs4LWSCnXX-Dq-/view?usp=drive_link
 
 ---
 
