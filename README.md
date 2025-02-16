@@ -6,7 +6,8 @@
 India’s borders are vast, diverse, and constantly under threat. From rugged mountains to dense forests, ensuring safety is **a mission of national importance**.  
 
 💡 **Project JAWAAN** is an **AI-driven, automation-powered, real-time analytics solution** designed to **protect those who protect us!** 💙  
-
+**Working Video Samples:** https://drive.google.com/drive/folders/1mCTaDPwWnrmG9O1aAso3imdUoxTRI6kf?usp=sharing
+**Working Video Samples:** https://drive.google.com/file/d/18UgeoP29qLG4TrexTJGwEDX2YpuMPHsy/view?usp=drive_link
 ---
 
 ## 🚀 **Key Features**  
@@ -17,7 +18,7 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 ✅ **Optimized Path Planning:** A* algorithm ensures **maximum coverage with minimal resources**.  
 
 🔗 **Live Demo:** [Drone Route Optimization](https://droneroute.netlify.app/)  
-
+ **Working Video Sample** - https://drive.google.com/file/d/165eYQ8fMrsW20FfSjrhnyDr5baQi0WhL/view?usp=drive_link
 ---
 
 ### 📦 **2️⃣ INVENTORY - Smart Resource Management** 🔄  
@@ -26,7 +27,8 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 ✅ **Automated Alerts:** Expiry monitoring, stock level warnings & consumption insights.  
 
 🔗 **Live Demo:** [Inventory System](https://jawaninventory.netlify.app/)  
-
+  **Working Video Sample** - https://drive.google.com/file/d/1bTa-3A8Dz60YzPNb9vVRCwTcduLNZq23/view?usp=sharing
+  
 ---
 
 ### ❤️‍🔥 **3️⃣ HEALTH - Real-Time Soldier Well-being** ⏳💓  
