@@ -17,9 +17,10 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 ✅ **Optimized Path Planning:** A* algorithm ensures **maximum coverage with minimal resources**.  
 
 🔗 **Live Demo:** [Drone Route Optimization](https://droneroute.netlify.app/)  
- **Working Video Sample** - https://drive.google.com/file/d/165eYQ8fMrsW20FfSjrhnyDr5baQi0WhL/view?usp=drive_link
 
- **Working Video Samples:** https://drive.google.com/drive/folders/1mCTaDPwWnrmG9O1aAso3imdUoxTRI6kf?usp=sharing
+ **Working Video Sample of Survelliance ** - https://drive.google.com/file/d/165eYQ8fMrsW20FfSjrhnyDr5baQi0WhL/view?usp=drive_link
+
+ **Working Video Sample of Audio Analysis ** - https://drive.google.com/file/d/18UgeoP29qLG4TrexTJGwEDX2YpuMPHsy/view?usp=drive_link
  
  **Working Video Samples:** https://drive.google.com/file/d/18UgeoP29qLG4TrexTJGwEDX2YpuMPHsy/view?usp=drive_link
 ---
