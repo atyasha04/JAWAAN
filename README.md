@@ -1,74 +1,71 @@
----
+# 🛡️ Project JAWAAN – Revolutionizing Border Security 🇮🇳
 
-# 🛡️ **Project JAWAAN – Revolutionizing Border Security** 🇮🇳
-
-### **🔹 Introduction**  
+## 🔹 Introduction  
 India’s borders are vast, diverse, and constantly under threat. From rugged mountains to dense forests, ensuring safety is **a mission of national importance**.  
 
 💡 **Project JAWAAN** is an **AI-driven, automation-powered, real-time analytics solution** designed to **protect those who protect us!** 💙  
 
 ---
 
-## 🚀 **Key Features**  
+## 🚀 Key Features  
 
-### 🔍 **1️⃣ VIGILANCE - AI-Powered Surveillance** 🕵️‍♂️🚁  
+### 🔍 1️⃣ VIGILANCE - AI-Powered Surveillance 🕵️‍♂️🚁  
 ✅ **Drone-based Monitoring:** Advanced cameras & sensors for **24/7 surveillance**.  
 ✅ **Real-time Audio & Video Analysis:** Detects suspicious activity using **AI-powered keyword & object recognition**.  
 ✅ **Optimized Path Planning:** A* algorithm ensures **maximum coverage with minimal resources**.  
 
-🔗 **Live Demo:** [Drone Route Optimization](https://droneroute.netlify.app/)  
+🔗 **[Drone Route Optimization](https://droneroute.netlify.app/)**  
 
-  **Working Video Sample of Survelliance** - https://drive.google.com/file/d/165eYQ8fMrsW20FfSjrhnyDr5baQi0WhL/view?usp=drive_link
+📽️ **[Surveillance Video](https://drive.google.com/file/d/165eYQ8fMrsW20FfSjrhnyDr5baQi0WhL/view?usp=drive_link)**  
+📽️ **[Audio Analysis](https://drive.google.com/file/d/18UgeoP29qLG4TrexTJGwEDX2YpuMPHsy/view?usp=drive_link)**  
+📽️ **[Lethality Detection](https://drive.google.com/file/d/150YQ-IruEvtXkW8Nws0H-7qbl21eRNEb/view?usp=drive_link)**  
 
-  **Working Video Sample of Audio Analysis** - https://drive.google.com/file/d/18UgeoP29qLG4TrexTJGwEDX2YpuMPHsy/view?usp=drive_link
-
-  **Working Video Sample of Lethality** - https://drive.google.com/file/d/150YQ-IruEvtXkW8Nws0H-7qbl21eRNEb/view?usp=drive_link
- 
 ---
 
-### 📦 **2️⃣ INVENTORY - Smart Resource Management** 🔄  
+### 📦 2️⃣ INVENTORY - Smart Resource Management 🔄  
 ✅ **Centralized Dashboard:** Real-time tracking of **food, weapons & medical supplies**.  
 ✅ **AI-Powered Delivery:** Drones ensure urgent supplies reach soldiers **efficiently**.  
 ✅ **Automated Alerts:** Expiry monitoring, stock level warnings & consumption insights.  
 
-🔗 **Live Demo:** [Inventory System](https://jawaninventory.netlify.app/)  
+🔗 **[Inventory System](https://jawaninventory.netlify.app/)**  
 
-  **Working Video Sample of Stock Supply** - https://drive.google.com/file/d/1bTa-3A8Dz60YzPNb9vVRCwTcduLNZq23/view?usp=sharing
-  
-   **Working Video Sample of Inventory** -https://drive.google.com/file/d/1Mz7amImPtgf50L3TYNDi0VoiqTQPci5C/view?usp=drive_link
+📽️ **[Stock Supply](https://drive.google.com/file/d/1bTa-3A8Dz60YzPNb9vVRCwTcduLNZq23/view?usp=sharing)**  
+📽️ **[Inventory Overview](https://drive.google.com/file/d/1Mz7amImPtgf50L3TYNDi0VoiqTQPci5C/view?usp=drive_link)**  
+
 ---
 
-### ❤️‍🔥 **3️⃣ HEALTH - Real-Time Soldier Well-being** ⏳💓  
+### ❤️‍🔥 3️⃣ HEALTH - Real-Time Soldier Well-being ⏳💓  
 ✅ **Wearable Health Devices:** Tracks **heart rate, BP, and stress levels**.  
 ✅ **Centralized Health Dashboard:** Commanders & medical teams get **real-time insights**.  
 ✅ **Proactive Alerts:** Early warnings for **medical emergencies** to ensure **quick response**.  
 
-🔗 **Live Demo:** [Health Monitoring](https://jawaan.netlify.app/)  
+🔗 **[Health Monitoring](https://jawaan.netlify.app/)**  
 
-  **Working Video Sample of Health** - https://drive.google.com/file/d/1f1zSBFLXBPwb0E9I3UyOaIQT3tXpdCu_/view?usp=drive_link
+📽️ **[Health System Video](https://drive.google.com/file/d/1f1zSBFLXBPwb0E9I3UyOaIQT3tXpdCu_/view?usp=drive_link)**  
+
 ---
 
-### 🎮 **4️⃣ GAME & FORECASTING - Next-Level Training** ⚔️  
+### 🎮 4️⃣ GAME & FORECASTING - Next-Level Training ⚔️  
 ✅ **VR-Based Combat Training:** Simulated battle scenarios for **risk-free training**.  
 ✅ **Marksmanship Practice:** AI-assisted VR shooting range to **improve accuracy**.  
 ✅ **Adaptive Tactical Exercises:** AI-driven challenges with **progressive difficulty**.  
 
-🔗 **Live Demo:** [VR Training](https://jawan.netlify.app/)  
+🔗 **[VR Training](https://jawan.netlify.app/)**  
 
- **Working Video Sample of Game** - https://drive.google.com/file/d/13nq1y1e0IpUsXELlqgRs4LWSCnXX-Dq-/view?usp=drive_link
+📽️ **[VR Training Video](https://drive.google.com/file/d/13nq1y1e0IpUsXELlqgRs4LWSCnXX-Dq-/view?usp=drive_link)**  
 
 ---
 
-### 🚨 **5️⃣ SOS - Emergency Assistance System** 📍  
+### 🚨 5️⃣ SOS - Emergency Assistance System 📍  
 ✅ **Instant SOS Alerts:** Soldiers can trigger emergency signals **with location & custom messages**.  
 ✅ **Centralized Command Dashboard:** Commanders see **active alerts & respond immediately**.  
 ✅ **Rapid Medical & Tactical Support:** Ensures **quick allocation of resources**.  
 
-🔗 **Live Demo:** [SOS System](https://ssjawaan.netlify.app/)  
+🔗 **[SOS System](https://ssjawaan.netlify.app/)**  
 
 ---
 
-## 💡 **Why Project JAWAAN?**  
+## 💡 Why Project JAWAAN?  
 ✅ **AI-Driven Decision Making** 🤖  
 ✅ **Autonomous Surveillance & Resource Management** 🚁📦  
 ✅ **Real-Time Soldier Health Monitoring** ⏳  
@@ -77,42 +74,41 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 
 ---
 
-## ⚙️ **Tech Stack** 🚀  
+## ⚙️ Tech Stack 🚀  
 
-### 🖥️ **Hardware**  
+### 🖥️ Hardware  
 🍓 **Raspberry Pi** | 🏗️ **Gazebo** | 🌐 **FANET**  
 
-### 🧠 **Algorithms & AI Models**  
+### 🧠 Algorithms & AI Models  
 🛤️ **TSP (Traveling Salesman Problem)** | ⭐ **A*** | 📦 **Batch Processing**  
 📉 **Linear Regression**  
 
-### 📚 **Software & Libraries**  
+### 📚 Software & Libraries  
 🐍 **Python** | 🔢 **NumPy** | 🤖 **TensorFlow** | 👀 **OpenCV** | 🎯 **YOLO** | 🗺️ **Folium**  
 
-### 💾 **Backend & Database**  
+### 💾 Backend & Database  
 🍃 **MongoDB** | 🚀 **Express.js** | 🟢 **Node.js** | 🏛️ **MVC Architecture** | ☁️ **AWS**  
 
-### 🌐 **Web Stack**  
+### 🌐 Web Stack  
 ⚛️ **React.js** | 🚀 **Express.js** | 🟢 **Node.js** | 🍃 **MongoDB**  
 
 ---
 
-## 🤝 **Contributors** 💡  
+## 🤝 Contributors 💡  
 👨‍💻 **Team JAWAAN** – Passionate developers, AI experts & innovators dedicated to **a safer future for our soldiers**.  
 
-🧠 **Sandeep Sarkar** - ML Engineer  
-🤖 **Atyasha Bhattacharyya** - AIML Developer  
-📊 **Kazi Jiyad Hasan** - Data Analyst  
-💻 **Subhanjan Saha** - Software Developer  
-🎮 **Ishaan Karmakar** - Game Developer  
+- 🧠 **Sandeep Sarkar** - ML Engineer  
+- 🤖 **Atyasha Bhattacharyya** - AIML Developer  
+- 📊 **Kazi Jiyad Hasan** - Data Analyst  
+- 💻 **Subhanjan Saha** - Software Developer  
+- 🎮 **Ishaan Karmakar** - Game Developer  
 
 ---
 
-## 🚀 **Let’s Make a Difference!**  
+## 🚀 Let’s Make a Difference!  
 Project JAWAAN is **more than technology** – it's a **commitment to our heroes**. By integrating **AI, automation, and innovation**, we ensure **those on the front lines are equipped with the best tools** to stay safe and succeed in their mission.  
 
 🇮🇳 **Protecting those who protect us isn’t just a responsibility—it’s an HONOR!** 🇮🇳  
 
 🔗 **#JAWAAN #BorderSecurity #AI #Innovation #ProtectOurSoldiers**  
 
----
