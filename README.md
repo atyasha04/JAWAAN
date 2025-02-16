@@ -14,8 +14,9 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 ✅ **Real-time Audio & Video Analysis:** Detects suspicious activity using **AI-powered keyword & object recognition**.  
 ✅ **Optimized Path Planning:** A* algorithm ensures **maximum coverage with minimal resources**.  
 
-🔗 **[Drone Route Optimization](https://droneroute.netlify.app/)**  
+🔗 **[Drone Route Optimization](https://droneroute.netlify.app/)** *(Link to the live drone route optimization system)*  
 
+#### 🎥 Sample Videos of Our Product:  
 📽️ **[Surveillance Video](https://drive.google.com/file/d/165eYQ8fMrsW20FfSjrhnyDr5baQi0WhL/view?usp=drive_link)**  
 📽️ **[Audio Analysis](https://drive.google.com/file/d/18UgeoP29qLG4TrexTJGwEDX2YpuMPHsy/view?usp=drive_link)**  
 📽️ **[Lethality Detection](https://drive.google.com/file/d/150YQ-IruEvtXkW8Nws0H-7qbl21eRNEb/view?usp=drive_link)**  
@@ -27,8 +28,9 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 ✅ **AI-Powered Delivery:** Drones ensure urgent supplies reach soldiers **efficiently**.  
 ✅ **Automated Alerts:** Expiry monitoring, stock level warnings & consumption insights.  
 
-🔗 **[Inventory System](https://jawaninventory.netlify.app/)**  
+🔗 **[Inventory System](https://jawaninventory.netlify.app/)** *(Link to the live inventory management system)*  
 
+#### 🎥 Sample Videos of Our Product:  
 📽️ **[Stock Supply](https://drive.google.com/file/d/1bTa-3A8Dz60YzPNb9vVRCwTcduLNZq23/view?usp=sharing)**  
 📽️ **[Inventory Overview](https://drive.google.com/file/d/1Mz7amImPtgf50L3TYNDi0VoiqTQPci5C/view?usp=drive_link)**  
 
@@ -39,8 +41,9 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 ✅ **Centralized Health Dashboard:** Commanders & medical teams get **real-time insights**.  
 ✅ **Proactive Alerts:** Early warnings for **medical emergencies** to ensure **quick response**.  
 
-🔗 **[Health Monitoring](https://jawaan.netlify.app/)**  
+🔗 **[Health Monitoring](https://jawaan.netlify.app/)** *(Link to the live soldier health monitoring system)*  
 
+#### 🎥 Sample Videos of Our Product:  
 📽️ **[Health System Video](https://drive.google.com/file/d/1f1zSBFLXBPwb0E9I3UyOaIQT3tXpdCu_/view?usp=drive_link)**  
 
 ---
@@ -50,8 +53,9 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 ✅ **Marksmanship Practice:** AI-assisted VR shooting range to **improve accuracy**.  
 ✅ **Adaptive Tactical Exercises:** AI-driven challenges with **progressive difficulty**.  
 
-🔗 **[VR Training](https://jawan.netlify.app/)**  
+🔗 **[VR Training](https://jawan.netlify.app/)** *(Link to the live VR combat training system)*  
 
+#### 🎥 Sample Videos of Our Product:  
 📽️ **[VR Training Video](https://drive.google.com/file/d/13nq1y1e0IpUsXELlqgRs4LWSCnXX-Dq-/view?usp=drive_link)**  
 
 ---
@@ -61,7 +65,7 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 ✅ **Centralized Command Dashboard:** Commanders see **active alerts & respond immediately**.  
 ✅ **Rapid Medical & Tactical Support:** Ensures **quick allocation of resources**.  
 
-🔗 **[SOS System](https://ssjawaan.netlify.app/)**  
+🔗 **[SOS System](https://ssjawaan.netlify.app/)** *(Link to the live emergency SOS system)*  
 
 ---
 
@@ -111,4 +115,3 @@ Project JAWAAN is **more than technology** – it's a **commitment to our heroes
 🇮🇳 **Protecting those who protect us isn’t just a responsibility—it’s an HONOR!** 🇮🇳  
 
 🔗 **#JAWAAN #BorderSecurity #AI #Innovation #ProtectOurSoldiers**  
-
