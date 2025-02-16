@@ -6,8 +6,7 @@
 India’s borders are vast, diverse, and constantly under threat. From rugged mountains to dense forests, ensuring safety is **a mission of national importance**.  
 
 💡 **Project JAWAAN** is an **AI-driven, automation-powered, real-time analytics solution** designed to **protect those who protect us!** 💙  
-**Working Video Samples:** https://drive.google.com/drive/folders/1mCTaDPwWnrmG9O1aAso3imdUoxTRI6kf?usp=sharing
-**Working Video Samples:** https://drive.google.com/file/d/18UgeoP29qLG4TrexTJGwEDX2YpuMPHsy/view?usp=drive_link
+
 ---
 
 ## 🚀 **Key Features**  
@@ -19,6 +18,10 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 
 🔗 **Live Demo:** [Drone Route Optimization](https://droneroute.netlify.app/)  
  **Working Video Sample** - https://drive.google.com/file/d/165eYQ8fMrsW20FfSjrhnyDr5baQi0WhL/view?usp=drive_link
+
+ **Working Video Samples:** https://drive.google.com/drive/folders/1mCTaDPwWnrmG9O1aAso3imdUoxTRI6kf?usp=sharing
+ 
+ **Working Video Samples:** https://drive.google.com/file/d/18UgeoP29qLG4TrexTJGwEDX2YpuMPHsy/view?usp=drive_link
 ---
 
 ### 📦 **2️⃣ INVENTORY - Smart Resource Management** 🔄  
