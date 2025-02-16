@@ -18,9 +18,11 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 
 🔗 **Live Demo:** [Drone Route Optimization](https://droneroute.netlify.app/)  
 
- **Working Video Sample of Survelliance** - https://drive.google.com/file/d/165eYQ8fMrsW20FfSjrhnyDr5baQi0WhL/view?usp=drive_link
+  **Working Video Sample of Survelliance** - https://drive.google.com/file/d/165eYQ8fMrsW20FfSjrhnyDr5baQi0WhL/view?usp=drive_link
 
- **Working Video Sample of Audio Analysis** - https://drive.google.com/file/d/18UgeoP29qLG4TrexTJGwEDX2YpuMPHsy/view?usp=drive_link
+  **Working Video Sample of Audio Analysis** - https://drive.google.com/file/d/18UgeoP29qLG4TrexTJGwEDX2YpuMPHsy/view?usp=drive_link
+
+  **Working Video Sample of Lethality** - https://drive.google.com/file/d/150YQ-IruEvtXkW8Nws0H-7qbl21eRNEb/view?usp=drive_link
  
 ---
 
@@ -31,8 +33,9 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 
 🔗 **Live Demo:** [Inventory System](https://jawaninventory.netlify.app/)  
 
-  **Working Video Sample** - https://drive.google.com/file/d/1bTa-3A8Dz60YzPNb9vVRCwTcduLNZq23/view?usp=sharing
+  **Working Video Sample of Stock Supply** - https://drive.google.com/file/d/1bTa-3A8Dz60YzPNb9vVRCwTcduLNZq23/view?usp=sharing
   
+   **Working Video Sample of Inventory** -https://drive.google.com/file/d/1Mz7amImPtgf50L3TYNDi0VoiqTQPci5C/view?usp=drive_link
 ---
 
 ### ❤️‍🔥 **3️⃣ HEALTH - Real-Time Soldier Well-being** ⏳💓  
@@ -42,6 +45,7 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 
 🔗 **Live Demo:** [Health Monitoring](https://jawaan.netlify.app/)  
 
+  **Working Video Sample of Inventory** - https://drive.google.com/file/d/1f1zSBFLXBPwb0E9I3UyOaIQT3tXpdCu_/view?usp=drive_link
 ---
 
 ### 🎮 **4️⃣ GAME & FORECASTING - Next-Level Training** ⚔️  
@@ -50,6 +54,8 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 ✅ **Adaptive Tactical Exercises:** AI-driven challenges with **progressive difficulty**.  
 
 🔗 **Live Demo:** [VR Training](https://jawan.netlify.app/)  
+
+ **Working Video Sample of Inventory** - https://drive.google.com/file/d/13nq1y1e0IpUsXELlqgRs4LWSCnXX-Dq-/view?usp=drive_link
 
 ---
 
