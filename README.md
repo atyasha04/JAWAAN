@@ -22,7 +22,6 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 
  **Working Video Sample of Audio Analysis** - https://drive.google.com/file/d/18UgeoP29qLG4TrexTJGwEDX2YpuMPHsy/view?usp=drive_link
  
- **Working Video Samples:** https://drive.google.com/file/d/18UgeoP29qLG4TrexTJGwEDX2YpuMPHsy/view?usp=drive_link
 ---
 
 ### 📦 **2️⃣ INVENTORY - Smart Resource Management** 🔄  
@@ -31,6 +30,7 @@ India’s borders are vast, diverse, and constantly under threat. From rugged mo
 ✅ **Automated Alerts:** Expiry monitoring, stock level warnings & consumption insights.  
 
 🔗 **Live Demo:** [Inventory System](https://jawaninventory.netlify.app/)  
+
   **Working Video Sample** - https://drive.google.com/file/d/1bTa-3A8Dz60YzPNb9vVRCwTcduLNZq23/view?usp=sharing
   
 ---
